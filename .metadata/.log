@@ -1,0 +1,5259 @@
+!SESSION 2022-03-24 15:14:45.744 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.14.1
+java.vendor=Homebrew
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CN
+Command-line arguments:  -data /Users/santinoyanz/Desktop/JavaWorkspace/test
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:14:47.751
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:14:48.084
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:14:48.127
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:14:48.130
+!MESSAGE Initializing Java Language Server 1.10.0.202203160029
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:14:48.174
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:14:48.174
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:14:48.182
+!MESSAGE Wait for AutoBuildOffJob start
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:14:48.185
+!MESSAGE Wait for AutoBuildOffJob end 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:14:48.185
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:14:48.186
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:14:48.187
+!MESSAGE ProjectRegistryRefreshJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:14:48.187
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:14:48.244
+!MESSAGE Started org.eclipse.buildship.core 57ms
+!SESSION 2022-03-24 15:16:55.561 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.14.1
+java.vendor=Homebrew
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CN
+Command-line arguments:  -data /Users/santinoyanz/Desktop/JavaWorkspace/test
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:16:57.555
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:16:57.923
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:16:57.970
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:16:57.976
+!MESSAGE Initializing Java Language Server 1.10.0.202203160029
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:16:58.019
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:16:58.020
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:16:58.028
+!MESSAGE Wait for AutoBuildOffJob start
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:16:58.030
+!MESSAGE Wait for AutoBuildOffJob end 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:16:58.030
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:16:58.031
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:16:58.032
+!MESSAGE ProjectRegistryRefreshJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:16:58.033
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:16:58.080
+!MESSAGE Started org.eclipse.buildship.core 47ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:17:07.647
+!MESSAGE LoadingGradleVersionJob finished 9565ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:17:07.679
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:17:07.683
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:17:09.175
+!MESSAGE Default VM Install changed from  null to net.java.openjdk.11.0.14.1.jdk-/usr/local/Cellar/openjdk@11/11.0.14.1/libexec/openjdk.jdk/Contents/Home
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:17:09.178
+!MESSAGE defaultVMInstallChanged -> force update of jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:17:09.224
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:17:09.752
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:17:09.846
+!MESSAGE Workspace initialized in 2197ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:17:09.872
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:17:09.876
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:17:09.894
+!MESSAGE >> New configuration: {Lua={diagnostics={globals=[vim, use]}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:17:09.903
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:17:10.298
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:17:10.302
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:17:10.302
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:17:11.211
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:17:11.776
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:17:11.776
+!MESSAGE 1 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:17:11.781
+!MESSAGE Validated 1. Took 165 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:01.628
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:01.636
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:01.690
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:01.707
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2022-03-24 15:18:03.794 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.14.1
+java.vendor=Homebrew
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CN
+Command-line arguments:  -data /Users/santinoyanz/Desktop/JavaWorkspace/test
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:05.729
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:06.021
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:06.063
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:06.066
+!MESSAGE Initializing Java Language Server 1.10.0.202203160029
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:06.106
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:06.107
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:06.114
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:06.115
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:06.117
+!MESSAGE ProjectRegistryRefreshJob finished 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:06.118
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:06.154
+!MESSAGE Started org.eclipse.buildship.core 36ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:06.166
+!MESSAGE LoadingGradleVersionJob finished 12ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:06.196
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:07.056
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:07.526
+!MESSAGE Workspace initialized in 1352ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:07.550
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:07.552
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:07.563
+!MESSAGE >> New configuration: {Lua={diagnostics={globals=[vim, use]}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:07.564
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:07.565
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:07.568
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:07.568
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:08.410
+!MESSAGE Reconciled 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:08.908
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:08.909
+!MESSAGE 1 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:18:08.913
+!MESSAGE Validated 1. Took 97 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:04.786
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:04.804
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:04.903
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:04.922
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2022-03-24 15:25:09.254 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.14.1
+java.vendor=Homebrew
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CN
+Command-line arguments:  -data /Users/santinoyanz/Desktop/JavaWorkspace/test
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:11.131
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:11.505
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:11.566
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:11.569
+!MESSAGE Initializing Java Language Server 1.10.0.202203160029
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:11.609
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:11.609
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:11.618
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:11.619
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:11.625
+!MESSAGE ProjectRegistryRefreshJob finished 6ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:11.625
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:11.665
+!MESSAGE Started org.eclipse.buildship.core 40ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:11.678
+!MESSAGE LoadingGradleVersionJob finished 13ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:11.694
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:12.424
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:12.949
+!MESSAGE Workspace initialized in 1270ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:12.970
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:12.972
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:12.982
+!MESSAGE >> New configuration: {Lua={diagnostics={globals=[vim, use]}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:12.982
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:12.984
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:12.986
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:12.986
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:13.874
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:13.875
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:14.362
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:14.362
+!MESSAGE 1 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:14.367
+!MESSAGE Validated 1. Took 91 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:51.365
+!MESSAGE Parent process stopped running, forcing server exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:51.366
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 15:25:51.374
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2022-03-24 16:13:27.856 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.14.1
+java.vendor=Homebrew
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CN
+Command-line arguments:  -data /Users/santinoyanz/Desktop/JavaWorkspace/test
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:29.836
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:30.181
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:30.226
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:30.229
+!MESSAGE Initializing Java Language Server 1.10.0.202203160029
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:30.271
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:30.272
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:30.280
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:30.281
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:30.283
+!MESSAGE ProjectRegistryRefreshJob finished 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:30.285
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:30.327
+!MESSAGE Started org.eclipse.buildship.core 41ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:30.349
+!MESSAGE LoadingGradleVersionJob finished 22ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:30.376
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:30.959
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:31.703
+!MESSAGE Workspace initialized in 1352ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:31.724
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:31.726
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:31.736
+!MESSAGE >> New configuration: {Lua={diagnostics={globals=[vim, use]}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:31.737
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:31.738
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:31.740
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:31.741
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:32.362
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:32.373
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:32.377
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:32.382
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:32.842
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:33.274
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:33.274
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:33.278
+!MESSAGE Validated 1. Took 30 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:36.389
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:36.412
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:36.827
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:36.827
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:36.828
+!MESSAGE Validated 1. Took 13 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:37.357
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:37.376
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:37.517
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:37.532
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:37.681
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:37.697
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:38.110
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:38.111
+!MESSAGE 1 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:13:38.112
+!MESSAGE Validated 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:29.336
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:29.345
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:29.351
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:29.359
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:29.363
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:29.375
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:29.379
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:29.394
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:29.808
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:29.808
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:29.808
+!MESSAGE Validated 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.209
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.214
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.218
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.228
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.233
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.238
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.243
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.247
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.251
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.254
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.260
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.264
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.274
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.278
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.282
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.285
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.290
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.293
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.296
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.299
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.367
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.778
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.778
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:30.779
+!MESSAGE Validated 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:31.704
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:31.708
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:31.712
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:31.717
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:31.730
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:31.733
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:31.739
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:31.745
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:31.751
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:31.757
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:31.761
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:31.765
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:31.774
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:31.777
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:31.780
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:31.783
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:31.799
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:31.812
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.179
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.183
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.186
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.189
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.192
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.195
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.198
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.213
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.488
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.493
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.496
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.499
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.502
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.506
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.510
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.525
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.720
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.724
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.727
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.729
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.733
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.736
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.741
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.745
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.760
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.940
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.943
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.947
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.952
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.957
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.960
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.963
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:32.977
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.151
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.155
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.157
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.161
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.164
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.167
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.173
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.176
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.179
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.182
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.185
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.190
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.194
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.197
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.210
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.336
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.339
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.341
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.344
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.346
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.349
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.354
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.357
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.361
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.364
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.366
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.369
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.375
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.378
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.392
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.551
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.556
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.558
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.562
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.565
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.568
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.580
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.815
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.818
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.821
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.823
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.826
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.829
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.831
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.835
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:33.847
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:34.261
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:34.261
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:15:34.262
+!MESSAGE Validated 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:16:01.994
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:16:02.090
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:16:02.502
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:16:02.503
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:16:02.527
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:16:02.527
+!MESSAGE 1 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:16:02.528
+!MESSAGE Validated 2. Took 33 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:19:57.446
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:19:57.467
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:19:57.478
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:19:57.579
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:19:57.591
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2022-03-24 16:22:31.958 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.14.1
+java.vendor=Homebrew
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CN
+Command-line arguments:  -data /Users/santinoyanz/Desktop/JavaWorkspace/test
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:34.119
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:34.437
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:34.481
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:34.483
+!MESSAGE Initializing Java Language Server 1.10.0.202203160029
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:34.535
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:34.536
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:34.544
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:34.545
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:34.548
+!MESSAGE ProjectRegistryRefreshJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:34.549
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:34.586
+!MESSAGE Started org.eclipse.buildship.core 37ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:34.598
+!MESSAGE LoadingGradleVersionJob finished 11ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:34.622
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:35.264
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:35.926
+!MESSAGE Workspace initialized in 1325ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:35.942
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:35.944
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:35.955
+!MESSAGE >> New configuration: {Lua={diagnostics={globals=[vim, use]}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:35.957
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:36.568
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:36.571
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:36.572
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:36.803
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:37.217
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:37.639
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:37.640
+!MESSAGE 1 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2022-03-24 16:22:37.641
+!MESSAGE BadLocationException
+!STACK 0
+org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.TreeLineTracker.fail(TreeLineTracker.java:1054)
+	at org.eclipse.jface.text.TreeLineTracker.lineByOffset(TreeLineTracker.java:268)
+	at org.eclipse.jface.text.TreeLineTracker.getLineNumberOfOffset(TreeLineTracker.java:1122)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineNumberOfOffset(AbstractLineTracker.java:155)
+	at org.eclipse.jface.text.AbstractDocument.getLineOfOffset(AbstractDocument.java:872)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getLineOfOffset(SynchronizableDocument.java:334)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toLine(JsonRpcHelpers.java:156)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toLine(JsonRpcHelpers.java:101)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.toRange(JDTUtils.java:858)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDiagnosticsHandler.convertRange(BaseDiagnosticsHandler.java:246)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDiagnosticsHandler.toDiagnosticsArray(BaseDiagnosticsHandler.java:152)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDiagnosticsHandler.endReporting(BaseDiagnosticsHandler.java:130)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.reportProblems(ReconcileWorkingCopyOperation.java:148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:112)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.publishDiagnostics(BaseDocumentLifeCycleHandler.java:285)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.publishDiagnostics(BaseDocumentLifeCycleHandler.java:249)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler$2.runInWorkspace(BaseDocumentLifeCycleHandler.java:117)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:22:37.644
+!MESSAGE Validated 1. Took 23 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:57:57.447
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:57:57.576
+!MESSAGE Reconciled 1. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:57:57.719
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:57:57.749
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:57:57.765
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:57:57.897
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:57:58.181
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:57:58.182
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:57:58.184
+!MESSAGE Validated 1. Took 30 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:00.164
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:00.249
+!MESSAGE Reconciled 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:00.330
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:00.364
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:00.791
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:00.792
+!MESSAGE 1 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2022-03-24 16:58:00.792
+!MESSAGE BadLocationException
+!STACK 0
+org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.TreeLineTracker.fail(TreeLineTracker.java:1054)
+	at org.eclipse.jface.text.TreeLineTracker.lineByOffset(TreeLineTracker.java:268)
+	at org.eclipse.jface.text.TreeLineTracker.getLineNumberOfOffset(TreeLineTracker.java:1122)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineNumberOfOffset(AbstractLineTracker.java:155)
+	at org.eclipse.jface.text.AbstractDocument.getLineOfOffset(AbstractDocument.java:872)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getLineOfOffset(SynchronizableDocument.java:334)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toLine(JsonRpcHelpers.java:156)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toLine(JsonRpcHelpers.java:101)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.toRange(JDTUtils.java:858)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDiagnosticsHandler.convertRange(BaseDiagnosticsHandler.java:246)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDiagnosticsHandler.toDiagnosticsArray(BaseDiagnosticsHandler.java:152)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDiagnosticsHandler.endReporting(BaseDiagnosticsHandler.java:130)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.reportProblems(ReconcileWorkingCopyOperation.java:148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:112)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.publishDiagnostics(BaseDocumentLifeCycleHandler.java:285)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.publishDiagnostics(BaseDocumentLifeCycleHandler.java:249)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler$2.runInWorkspace(BaseDocumentLifeCycleHandler.java:117)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:00.799
+!MESSAGE Validated 1. Took 29 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:00.930
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:00.956
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:01.055
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:01.058
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:01.079
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:01.117
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:01.187
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:01.207
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:01.632
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:01.633
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:01.633
+!MESSAGE Validated 1. Took 21 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:01.970
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:01.980
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:02.003
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:02.119
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:02.142
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:02.569
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:02.570
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:02.572
+!MESSAGE Validated 1. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:03.175
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:03.203
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:03.346
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:03.349
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:03.350
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:03.419
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:03.606
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:03.641
+!MESSAGE Reconciled 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:03.690
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:03.694
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:03.712
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:03.779
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:03.820
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:03.842
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:04.267
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:04.270
+!MESSAGE The declared package "com" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:04.271
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:04.271
+!MESSAGE Validated 1. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:04.458
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:04.460
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:04.482
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:04.513
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:04.907
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:04.909
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:04.910
+!MESSAGE Validated 1. Took 24 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:05.966
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:05.987
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:06.158
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:06.160
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:06.168
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:06.177
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:06.282
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:06.303
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:06.724
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:06.726
+!MESSAGE The declared package "com.san" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:06.726
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:06.727
+!MESSAGE Validated 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.070
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.072
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.073
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.077
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.079
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.081
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.084
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.085
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.087
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.090
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.093
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.094
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.097
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.099
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.102
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.104
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.105
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.110
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.112
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.116
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.119
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.123
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.124
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.141
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.562
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.563
+!MESSAGE The declared package "com.santinoyanz" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.563
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.563
+!MESSAGE Validated 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.571
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.573
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.574
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.577
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.580
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.583
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.585
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.588
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.591
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.597
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.601
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.603
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.604
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.606
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.607
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.609
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.614
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.617
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.619
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.621
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.624
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.626
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.627
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.629
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.631
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.632
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.635
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.636
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.638
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.640
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.642
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.643
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.645
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.648
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.649
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:07.666
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.086
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.087
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.088
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.088
+!MESSAGE Validated 1. Took 15 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.207
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.209
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.210
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.212
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.213
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.215
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.217
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.218
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.220
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.222
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.224
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.228
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.231
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.232
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.234
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.236
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.237
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.238
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.240
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.242
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.243
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.245
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.249
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.251
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.256
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.257
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.259
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.260
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.262
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.264
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.266
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.268
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.269
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.271
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.273
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.275
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.276
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.277
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.279
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.280
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.301
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.718
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.719
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.719
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.720
+!MESSAGE Validated 1. Took 14 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.795
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:08.814
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:09.229
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:09.230
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:09.230
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:09.231
+!MESSAGE Validated 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:09.386
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:09.407
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:09.822
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:09.822
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:09.823
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:09.823
+!MESSAGE Validated 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:09.994
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:10.016
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:10.206
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:10.207
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:10.211
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:10.278
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:10.693
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:10.694
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:10.694
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:10.695
+!MESSAGE Validated 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:10.991
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:11.010
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:11.147
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:11.148
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:11.166
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:11.322
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:11.344
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:11.454
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:11.455
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:11.456
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:11.474
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:11.798
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:11.820
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:11.926
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:11.927
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:11.929
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:11.945
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:12.054
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:12.077
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:12.230
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:12.251
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:12.665
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:12.666
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:12.666
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:12.668
+!MESSAGE Validated 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:12.675
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:12.694
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:12.883
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:12.884
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:12.885
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:12.901
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:13.318
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:13.319
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:13.319
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:13.319
+!MESSAGE Validated 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:13.338
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:13.364
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:13.542
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:13.544
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:13.567
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:13.609
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:13.667
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:13.739
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:13.862
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:13.883
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:14.090
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:14.091
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:14.092
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:14.111
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:14.454
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:14.457
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:14.474
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:14.897
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:14.898
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:14.900
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:14.901
+!MESSAGE Validated 1. Took 23 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:15.510
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:15.514
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:15.515
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:15.536
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:15.953
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:15.954
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:15.954
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:15.955
+!MESSAGE Validated 1. Took 13 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:16.938
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:16.959
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:17.030
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:17.031
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:17.052
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:17.117
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:17.170
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:17.190
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:17.274
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:17.296
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:17.318
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:17.337
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:17.694
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:17.716
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:17.862
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:17.883
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:18.010
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:18.031
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:18.170
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:18.191
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:18.446
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:18.448
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:18.467
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:18.507
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:18.543
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:18.563
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:18.567
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:18.591
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:18.657
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:18.677
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:18.959
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:18.980
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:19.126
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:19.146
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:19.282
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:19.303
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:19.446
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:19.518
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:19.594
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:19.600
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:19.601
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:19.620
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:19.686
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:19.707
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:19.839
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:19.842
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:19.860
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:19.977
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:19.983
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:20.005
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:20.007
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:20.027
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:20.342
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:20.362
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:20.702
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:20.721
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:20.855
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:20.874
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:21.018
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:21.019
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:21.020
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:21.041
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:21.464
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:21.464
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:21.465
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:21.465
+!MESSAGE Validated 1. Took 18 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.146
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.167
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.290
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.291
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.313
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.401
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.403
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.423
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.510
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.531
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.895
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.896
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.898
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.899
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.900
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.902
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.903
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.904
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.906
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.907
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.910
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.912
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.913
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.915
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.916
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.919
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.921
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.925
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:24.945
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:25.373
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:25.374
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:25.375
+!MESSAGE 6 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:25.375
+!MESSAGE Validated 1. Took 26 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:25.658
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:25.679
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.105
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.107
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.107
+!MESSAGE 6 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.107
+!MESSAGE Validated 1. Took 23 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.159
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.180
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.244
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.265
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.328
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.351
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.412
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.431
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.495
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.537
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.578
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.596
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.661
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.679
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.745
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.764
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.827
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.847
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.912
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.931
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:26.995
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:27.016
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:27.432
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:27.433
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:27.433
+!MESSAGE 6 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:27.434
+!MESSAGE Validated 1. Took 16 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:27.614
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:27.616
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:27.617
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:27.634
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:28.103
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:28.104
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:28.104
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:28.105
+!MESSAGE Validated 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:28.111
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:28.131
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:28.270
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:28.271
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:28.291
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:28.314
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:28.705
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:28.705
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:28.706
+!MESSAGE 6 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:28.706
+!MESSAGE Validated 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:29.198
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:29.217
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:29.334
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:29.353
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:29.430
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:29.451
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:29.546
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:29.565
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:29.713
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:29.715
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:29.716
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:29.731
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:29.912
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:29.933
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:30.069
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:30.071
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:30.096
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:30.226
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:30.228
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:30.230
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:30.296
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:30.322
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:30.324
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:30.343
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:30.467
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:30.487
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:30.586
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:30.608
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:30.753
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:30.755
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:30.755
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:30.774
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:31.201
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:31.222
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:31.301
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:31.302
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:31.320
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:31.327
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:31.441
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:31.459
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:31.514
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:31.534
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:31.737
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:31.758
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:31.894
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:31.895
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:31.896
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:31.915
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:32.166
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:32.167
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:32.178
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:32.184
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:32.346
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:32.364
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:32.514
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:32.534
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:32.666
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:32.686
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:33.034
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:33.053
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:33.149
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:33.167
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:33.302
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:33.303
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:33.304
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:33.323
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:33.783
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:33.784
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:33.784
+!MESSAGE 6 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:33.784
+!MESSAGE Validated 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:33.905
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:33.926
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:34.053
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:34.054
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:34.059
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:34.072
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:34.153
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:34.174
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:34.253
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:34.275
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:34.314
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:34.333
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:34.549
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:34.619
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:34.920
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:34.941
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:35.210
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:35.231
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:35.405
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:35.476
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:35.890
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:35.890
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:35.890
+!MESSAGE void is an invalid type for the variable printMe is of type VariableTypeCannotBeVoid
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:35.891
+!MESSAGE 5 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:35.891
+!MESSAGE Validated 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:36.373
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:36.393
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:36.541
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:36.561
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:36.573
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:36.593
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:36.785
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:36.806
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:36.929
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:36.951
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:37.365
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:37.365
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:37.365
+!MESSAGE void is an invalid type for the variable printMessage is of type VariableTypeCannotBeVoid
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:37.366
+!MESSAGE 5 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:37.367
+!MESSAGE Validated 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:37.421
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:37.423
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:37.441
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:37.864
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:37.865
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:37.865
+!MESSAGE 5 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:37.865
+!MESSAGE Validated 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:38.145
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:38.166
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:38.313
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:38.314
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:38.337
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:38.411
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:38.481
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:38.483
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:38.505
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:38.548
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:38.601
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:38.622
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:38.693
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:38.714
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:38.841
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:38.861
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:38.985
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:38.986
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:38.987
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:39.004
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:39.419
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:39.419
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:39.420
+!MESSAGE 6 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:39.420
+!MESSAGE Validated 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:39.765
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:39.766
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:39.789
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:39.811
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:40.009
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:40.010
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:40.011
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:40.029
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:40.443
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:40.443
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:40.443
+!MESSAGE 6 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:40.443
+!MESSAGE Validated 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:40.465
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:40.486
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:40.553
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:40.555
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:40.564
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:40.572
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:40.745
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:40.766
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:40.913
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:40.934
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:41.069
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:41.089
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:41.473
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:41.494
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:41.633
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:41.635
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:41.635
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:41.653
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:42.067
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:42.068
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:42.068
+!MESSAGE 5 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:42.068
+!MESSAGE Validated 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:42.166
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:42.167
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:42.172
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:42.185
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:42.601
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:42.601
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:42.602
+!MESSAGE 5 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:42.602
+!MESSAGE Validated 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:55.477
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:55.478
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:55.478
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:55.498
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:55.908
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:55.909
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:55.909
+!MESSAGE 5 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:55.910
+!MESSAGE Validated 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:56.002
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:56.003
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:56.023
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:56.277
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:56.279
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:56.280
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:56.298
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:56.712
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:56.712
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:56.713
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:56.713
+!MESSAGE Validated 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:58.089
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:58.107
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:58.309
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:58.310
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:58.334
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:58.393
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:58.433
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:58.435
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:58.453
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:58.503
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:58.617
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:58.638
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:58.697
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:58.718
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:58.873
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:58.893
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:59.009
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:59.029
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:59.447
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:59.447
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:59.448
+!MESSAGE 5 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:59.448
+!MESSAGE Validated 1. Took 14 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:59.645
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:59.666
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:59.885
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:59.886
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:58:59.907
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:00.054
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:00.325
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:00.326
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:00.326
+!MESSAGE 5 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:00.326
+!MESSAGE Validated 1. Took 14 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:00.621
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:00.641
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:00.721
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:00.727
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:00.743
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:00.743
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:00.841
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:00.858
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:01.273
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:01.273
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:01.273
+!MESSAGE 5 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:01.274
+!MESSAGE Validated 1. Took 13 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:01.669
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:01.670
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:01.671
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:01.672
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:01.673
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:01.674
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:01.690
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:01.746
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:02.160
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:02.160
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:02.160
+!MESSAGE 5 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:02.161
+!MESSAGE Validated 1. Took 14 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:03.801
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:03.802
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:03.829
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:03.914
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:04.049
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:04.070
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:04.177
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:04.178
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:04.197
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:04.215
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:04.273
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:04.294
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:04.388
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:04.410
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:04.485
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:04.505
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:04.921
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:04.922
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:04.922
+!MESSAGE 5 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:04.922
+!MESSAGE Validated 1. Took 14 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:07.077
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:07.097
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:07.269
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:07.288
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:07.545
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:07.546
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:07.565
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:07.982
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:07.983
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:07.983
+!MESSAGE 4 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:07.983
+!MESSAGE Validated 1. Took 13 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:08.369
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:08.391
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:08.529
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:08.530
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:08.548
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:08.619
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:08.830
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:08.835
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:08.850
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:08.873
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:09.013
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:09.035
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:09.241
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:09.260
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:09.417
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:09.437
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:09.603
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:09.624
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:10.042
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:10.042
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:10.042
+!MESSAGE 4 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:10.043
+!MESSAGE Validated 1. Took 15 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:11.273
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:11.294
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:11.716
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:11.716
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:11.716
+!MESSAGE 5 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:11.717
+!MESSAGE Validated 1. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:11.925
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:11.926
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:11.942
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:11.950
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:12.363
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:12.363
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:12.364
+!MESSAGE 4 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:12.364
+!MESSAGE Validated 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:14.609
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:14.628
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:15.043
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:15.044
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:15.044
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:15.044
+!MESSAGE Validated 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:17.348
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:17.369
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:17.371
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:17.458
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:17.512
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2022-03-24 16:59:51.724 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.14.1
+java.vendor=Homebrew
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CN
+Command-line arguments:  -data /Users/santinoyanz/Desktop/JavaWorkspace/test
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:53.656
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:53.953
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:53.993
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:53.997
+!MESSAGE Initializing Java Language Server 1.10.0.202203160029
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:54.036
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:54.037
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:54.044
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:54.046
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:54.048
+!MESSAGE ProjectRegistryRefreshJob finished 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:54.049
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:54.087
+!MESSAGE Started org.eclipse.buildship.core 35ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:54.099
+!MESSAGE LoadingGradleVersionJob finished 11ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:54.124
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:54.718
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:55.460
+!MESSAGE Workspace initialized in 1359ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:55.478
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:55.481
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:55.491
+!MESSAGE >> New configuration: {Lua={diagnostics={globals=[vim, use]}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:55.492
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:56.026
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:56.030
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:56.031
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:56.477
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:56.926
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:56.928
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:56.929
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 16:59:56.933
+!MESSAGE Validated 1. Took 52 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:27.971
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:28.041
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:28.471
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:28.472
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:28.472
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:28.473
+!MESSAGE Validated 1. Took 29 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:28.852
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:28.856
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:28.876
+!MESSAGE Reconciled 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:28.919
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:28.971
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:28.986
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:29.416
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:29.416
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:29.418
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:29.422
+!MESSAGE Validated 1. Took 31 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:32.328
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:40.347
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:40.349
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:40.355
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:40.360
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:40.523
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:40.538
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:40.667
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:40.682
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:40.812
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:40.826
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:41.253
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:41.254
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:41.254
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:41.255
+!MESSAGE Validated 1. Took 23 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:41.739
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:41.754
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:41.871
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:41.873
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:41.876
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:41.884
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:42.023
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:42.037
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:42.103
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:42.116
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:42.319
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:42.331
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:42.551
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:42.564
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:42.719
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:42.733
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:42.883
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:42.897
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:43.032
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:43.046
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:43.375
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:43.377
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:43.400
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:43.442
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:43.575
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:43.588
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:43.711
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:43.724
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:43.816
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:43.830
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:43.943
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:43.957
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:44.378
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:44.379
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:44.381
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:44.381
+!MESSAGE Validated 1. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:44.607
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:44.609
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:44.610
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:44.620
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:45.042
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:45.042
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:45.044
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:45.045
+!MESSAGE Validated 1. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:45.291
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:45.293
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:45.297
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:45.304
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:45.477
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:45.490
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:45.635
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:45.649
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:45.811
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:45.825
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:45.995
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:46.008
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:46.171
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:46.184
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:46.347
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:46.361
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:46.735
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:46.737
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:46.741
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:46.743
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:46.744
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:46.747
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:46.759
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:47.178
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:47.179
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:47.179
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:47.180
+!MESSAGE Validated 1. Took 16 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:47.255
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:47.272
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:47.423
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:47.424
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:47.429
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:47.436
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:47.559
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:47.571
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:47.695
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:47.708
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:47.819
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:47.833
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:48.252
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:48.253
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:48.253
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:48.254
+!MESSAGE Validated 1. Took 16 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:48.795
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:48.809
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:49.009
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:49.029
+!MESSAGE Reconciled 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:49.251
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:49.266
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:49.361
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:49.374
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:49.499
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:49.512
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:49.933
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:49.933
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:49.935
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:49.935
+!MESSAGE Validated 1. Took 18 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:54.555
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:54.569
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:54.987
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:54.988
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:54.988
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:54.988
+!MESSAGE Validated 1. Took 16 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:56.707
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:56.721
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:57.141
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:57.141
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:57.142
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:00:57.142
+!MESSAGE Validated 1. Took 15 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:01:07.459
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:01:07.472
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:01:07.889
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:01:07.890
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:01:07.890
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:01:07.891
+!MESSAGE Validated 1. Took 16 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:01:27.650
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:01:27.659
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:01:27.670
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:01:27.781
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:01:27.797
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+
+!ENTRY org.eclipse.core.resources 2 10035 2022-03-24 17:01:28.340
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2022-03-24 17:02:15.111 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.14.1
+java.vendor=Homebrew
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CN
+Command-line arguments:  -data /Users/santinoyanz/Desktop/JavaWorkspace/test
+
+!ENTRY org.eclipse.core.resources 2 10035 2022-03-24 17:02:16.100
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:16.857
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:17.086
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:17.131
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:17.139
+!MESSAGE Initializing Java Language Server 1.10.0.202203160029
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:17.175
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:17.176
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:17.182
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:17.183
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:17.197
+!MESSAGE ProjectRegistryRefreshJob finished 14ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:17.198
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:17.229
+!MESSAGE Started org.eclipse.buildship.core 30ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:17.257
+!MESSAGE LoadingGradleVersionJob finished 28ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:17.295
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:17.849
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:18.630
+!MESSAGE Workspace initialized in 1369ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:18.645
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:18.648
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:18.658
+!MESSAGE >> New configuration: {Lua={diagnostics={globals=[vim, use]}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:18.660
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:19.352
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:19.356
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:19.356
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:19.812
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:20.276
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:20.278
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:20.278
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:20.289
+!MESSAGE Validated 1. Took 73 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:22.648
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:22.663
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:22.678
+!MESSAGE Reconciled 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:22.751
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:23.104
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:23.105
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:23.106
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:23.107
+!MESSAGE Validated 1. Took 23 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:24.185
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:24.200
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:24.357
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:24.372
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:24.797
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:24.799
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:24.800
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:24.801
+!MESSAGE Validated 1. Took 24 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:40.549
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:40.551
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:40.566
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:40.580
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:40.729
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:40.742
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:40.889
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:40.892
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:40.911
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:40.913
+!MESSAGE Reconciled 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:41.338
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:41.339
+!MESSAGE The declared package "" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:41.340
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:41.340
+!MESSAGE Validated 1. Took 24 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:41.530
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:41.542
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:41.621
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:41.626
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:41.634
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:41.674
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:41.857
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:41.877
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:42.257
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:42.260
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:42.265
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:42.272
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:42.692
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:42.693
+!MESSAGE The declared package "" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:42.693
+!MESSAGE 3 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:42.694
+!MESSAGE Validated 1. Took 18 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:43.002
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:43.003
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:43.008
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:43.016
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:43.433
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:43.434
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:43.434
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:43.435
+!MESSAGE Validated 1. Took 18 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:46.797
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:46.814
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:46.826
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:46.889
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:02:46.901
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2022-03-24 17:03:08.908 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.14.1
+java.vendor=Homebrew
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CN
+Command-line arguments:  -data /Users/santinoyanz/Desktop/JavaWorkspace/test
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:10.598
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:10.873
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:10.923
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:10.928
+!MESSAGE Initializing Java Language Server 1.10.0.202203160029
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:10.962
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:10.962
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:10.969
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:10.970
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:10.984
+!MESSAGE ProjectRegistryRefreshJob finished 13ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:10.984
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:11.021
+!MESSAGE Started org.eclipse.buildship.core 37ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:11.023
+!MESSAGE LoadingGradleVersionJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:11.052
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:11.649
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:12.381
+!MESSAGE Workspace initialized in 1357ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:12.403
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:12.405
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:12.416
+!MESSAGE >> New configuration: {Lua={diagnostics={globals=[vim, use]}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:12.418
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:12.943
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:12.947
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:12.948
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:13.389
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:13.829
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:13.829
+!MESSAGE 1 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:03:13.835
+!MESSAGE Validated 1. Took 43 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:08:08.903
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:08:09.012
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:08:09.463
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:08:09.467
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:08:09.468
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:08:09.491
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:08:09.492
+!MESSAGE 1 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:08:09.498
+!MESSAGE Validated 2. Took 78 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:35.671
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:35.722
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:35.824
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:35.842
+!MESSAGE Reconciled 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.277
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.278
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.278
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.305
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.305
+!MESSAGE 2 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.307
+!MESSAGE Validated 2. Took 60 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.326
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.341
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.355
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.452
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.459
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.470
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.492
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.503
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.577
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.640
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.659
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.722
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.743
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.745
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.746
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:36.807
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:37.231
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:37.232
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:37.232
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:37.252
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:37.253
+!MESSAGE 2 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:37.254
+!MESSAGE Validated 2. Took 44 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:37.513
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:37.516
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:37.537
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:37.538
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:37.709
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:37.719
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:37.885
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:37.897
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:38.055
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:38.070
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:38.409
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:38.422
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:38.573
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:38.586
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:38.741
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:38.743
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:38.745
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:38.750
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:38.890
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:38.951
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:39.378
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:39.379
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:39.379
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:39.400
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:39.400
+!MESSAGE 1 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:39.401
+!MESSAGE Validated 2. Took 45 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:39.809
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:39.824
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:39.940
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:39.942
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:40.002
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:40.158
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:40.436
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:40.437
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:40.441
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:40.462
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:40.463
+!MESSAGE 1 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:40.463
+!MESSAGE Validated 2. Took 58 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:40.833
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:40.837
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:40.844
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:40.878
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:40.996
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:41.007
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:41.225
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:41.289
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:41.316
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:41.328
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:41.521
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:41.532
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:41.961
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:41.962
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:41.962
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:41.986
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:41.987
+!MESSAGE 1 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:41.987
+!MESSAGE Validated 2. Took 52 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:53.278
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:53.289
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:53.708
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:53.709
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:53.709
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:53.727
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:53.729
+!MESSAGE 1 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:53.729
+!MESSAGE Validated 2. Took 37 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:54.164
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:54.166
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:54.228
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:54.655
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:54.656
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:54.658
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:54.680
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:54.680
+!MESSAGE 1 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:54.681
+!MESSAGE Validated 2. Took 48 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:54.860
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:54.933
+!MESSAGE Reconciled 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:55.220
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:55.222
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:55.223
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:55.230
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:55.456
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:55.520
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:55.584
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:55.586
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:55.642
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:55.647
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:55.800
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:55.811
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:56.008
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:56.018
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:56.440
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:56.442
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:56.442
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:56.467
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:56.467
+!MESSAGE 3 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:56.468
+!MESSAGE Validated 2. Took 47 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:57.068
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:57.080
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:57.248
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:57.250
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:57.269
+!MESSAGE Reconciled 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:57.307
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:57.694
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:57.694
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:57.695
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:57.713
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:57.713
+!MESSAGE 3 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:57.714
+!MESSAGE Validated 2. Took 40 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:58.964
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:59.031
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:59.120
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:59.122
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:59.140
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:59.184
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:59.252
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:59.265
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:59.328
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:59.339
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:59.428
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:59.439
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:59.857
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:59.858
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:59.858
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:59.878
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:59.879
+!MESSAGE 3 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:10:59.879
+!MESSAGE Validated 2. Took 38 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:01.720
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:01.730
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:02.068
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:02.130
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:02.388
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:02.400
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:02.560
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:02.625
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:02.776
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:02.787
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:02.944
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:02.956
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:03.072
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:03.081
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:03.504
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:03.505
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:03.505
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:03.526
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:03.527
+!MESSAGE 3 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:03.527
+!MESSAGE Validated 2. Took 43 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:04.052
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:04.054
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:04.065
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:04.392
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:04.394
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:04.404
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:04.808
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:04.820
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:04.908
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:04.909
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:04.919
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:04.923
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:05.012
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:05.022
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:05.168
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:05.232
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:05.420
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:05.431
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:05.853
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:05.854
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:05.854
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:05.873
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:05.873
+!MESSAGE 2 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:05.874
+!MESSAGE Validated 2. Took 37 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:05.876
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:05.938
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:06.048
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:06.059
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:06.200
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:06.210
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:06.356
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:06.366
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:06.512
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:06.523
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:06.844
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:06.854
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:07.188
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:07.189
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:07.194
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:07.198
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:07.340
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:07.403
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:07.492
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:07.503
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:07.668
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:07.730
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:07.836
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:07.838
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:07.839
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:07.846
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:08.096
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:08.160
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:08.272
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:08.273
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:08.278
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:08.333
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:08.416
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:08.480
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:08.648
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:08.659
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:08.812
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:08.821
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:08.968
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:08.969
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:08.970
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:08.978
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:09.264
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:09.274
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:09.524
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:09.528
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:09.534
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:09.537
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:09.632
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:09.643
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:09.848
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:09.858
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:09.996
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:10.005
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:10.380
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:10.390
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:10.540
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:10.550
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:10.828
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:10.837
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:10.964
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:10.975
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:11.401
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:11.402
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:11.403
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:11.454
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:11.454
+!MESSAGE 2 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:11.455
+!MESSAGE Validated 2. Took 75 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:11.564
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:11.626
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:12.044
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:12.044
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:12.045
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:12.057
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:12.058
+!MESSAGE 2 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:12.058
+!MESSAGE Validated 2. Took 26 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:15.320
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:15.381
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:15.798
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:15.799
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:15.799
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:15.811
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:15.812
+!MESSAGE 1 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:15.812
+!MESSAGE Validated 2. Took 27 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:31.712
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:31.717
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:31.727
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:32.141
+!MESSAGE begin problem for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:32.141
+!MESSAGE The declared package "com.santinoyanz.top" does not match the expected package "main.java.com.santinoyanz.top" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:32.142
+!MESSAGE 2 problems reported for /Utils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:32.150
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:32.151
+!MESSAGE 1 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:32.151
+!MESSAGE Validated 2. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:33.203
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:33.204
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:33.244
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-24 17:11:33.262
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2022-03-25 00:04:44.511 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.14.1
+java.vendor=Homebrew
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CN
+Command-line arguments:  -data /Users/santinoyanz/Desktop/JavaWorkspace/test
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:46.708
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:47.087
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:47.144
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:47.149
+!MESSAGE Initializing Java Language Server 1.10.0.202203160029
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:47.200
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:47.200
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:47.208
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:47.209
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:47.211
+!MESSAGE ProjectRegistryRefreshJob finished 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:47.212
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:47.243
+!MESSAGE Started org.eclipse.buildship.core 31ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:47.269
+!MESSAGE LoadingGradleVersionJob finished 25ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:47.285
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:47.811
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:48.615
+!MESSAGE Workspace initialized in 1345ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:48.638
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:48.642
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:48.652
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:48.660
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:48.660
+!MESSAGE >> New configuration: {Lua={diagnostics={globals=[vim, use]}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:48.661
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:48.663
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:49.535
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:50.003
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:50.004
+!MESSAGE 1 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:04:50.009
+!MESSAGE Validated 1. Took 68 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:05:28.086
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:05:28.089
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:05:28.133
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 00:05:28.145
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

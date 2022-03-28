@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>jdt.ls-java-project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/com/santinoyanz/top/App.java</name>
+			<type>1</type>
+			<location>//Users/santinoyanz/Desktop/JavaWorkspace/test/src/main/java/com/santinoyanz/top/App.java</location>
+		</link>
+		<link>
+			<name>src/com/santinoyanz/top/AppTest.java</name>
+			<type>1</type>
+			<location>/Users/santinoyanz/Desktop/JavaWorkspace/test/src/test/java/com/santinoyanz/top/AppTest.java</location>
+		</link>
+		<link>
+			<name>src/main/java/com/santinoyanz/top/Utils.java</name>
+			<type>1</type>
+			<location>//Users/santinoyanz/Desktop/JavaWorkspace/test/src/main/java/com/santinoyanz/top/Utils.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
