@@ -1,2 +1,5 @@
 *.[oa]
 *~
+/TODO
+/build
+doc/*
