@@ -1,5 +1,0 @@
-total 8
-drwxr-xr-x  7 santinoyanz  staff   224B Mar 24 15:17 jdt.ls-java-project
--rw-r--r--  1 santinoyanz  staff   779B Mar 25 00:09 pom.xml
-drwxr-xr-x  4 santinoyanz  staff   128B Mar 24 15:12 src
--rw-r--r--  1 santinoyanz  staff     0B Mar 28 10:52 test.txt
