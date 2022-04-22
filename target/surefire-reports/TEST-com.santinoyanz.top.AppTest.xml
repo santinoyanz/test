@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="com.santinoyanz.top.AppTest" time="0.002" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="com.santinoyanz.top.AppTest" time="0.001" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.14.1+0"/>
     <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk@11/11.0.14.1/libexec/openjdk.jdk/Contents/Home/lib"/>
     <property name="gopherProxySet" value="false"/>
-    <property name="maven.multiModuleProjectDirectory" value="/Users/santinoyanz/Desktop/JavaWorkspace/test"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/santinoyanz/.jenkins/workspace/web"/>
     <property name="java.vm.vendor" value="Homebrew"/>
     <property name="java.vendor.url" value="https://github.com/Homebrew/homebrew-core/issues"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="CN"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/Users/santinoyanz/Desktop/JavaWorkspace/test"/>
+    <property name="user.dir" value="/Users/santinoyanz/.jenkins/workspace/web"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="java.runtime.version" value="11.0.14.1+0"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
@@ -49,7 +49,11 @@
     <property name="socksProxyHost" value="127.0.0.1"/>
     <property name="java.vm.specification.version" value="11"/>
     <property name="sun.arch.data.model" value="64"/>
+<<<<<<< HEAD
     <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher package"/>
+=======
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -s /usr/local/Cellar/maven/3.8.5/libexec/conf/settings.xml -gs /usr/local/Cellar/maven/3.8.5/libexec/conf/settings.xml package"/>
+>>>>>>> 9fd97bca8fd14288aa47ccd087b2fed602a07a9f
     <property name="java.home" value="/usr/local/Cellar/openjdk@11/11.0.14.1/libexec/openjdk.jdk/Contents/Home"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -70,5 +74,5 @@
     <property name="ftp.nonProxyHosts" value="192.168.0.0/16|*.192.168.0.0/16|10.0.0.0/8|*.10.0.0.0/8|172.16.0.0/12|*.172.16.0.0/12|127.0.0.1|localhost|*.localhost|local|*.local|timestamp.apple.com|*.timestamp.apple.com"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.santinoyanz.top.AppTest" name="testApp" time="0.002"/>
+  <testcase classname="com.santinoyanz.top.AppTest" name="testApp" time="0.001"/>
 </testsuite>
