@@ -49,7 +49,7 @@
     <property name="socksProxyHost" value="127.0.0.1"/>
     <property name="java.vm.specification.version" value="11"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean -U package"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher package"/>
     <property name="java.home" value="/usr/local/Cellar/openjdk@11/11.0.14.1/libexec/openjdk.jdk/Contents/Home"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
